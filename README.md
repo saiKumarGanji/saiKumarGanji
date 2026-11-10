@@ -24,6 +24,16 @@ I like the unglamorous work: dependency analysis, observability, developer tooli
 
 ---
 
+## System design & architecture
+
+- **Shaping systems that last** — clean, maintainable, extensible services; clear boundaries, honest trade-offs
+- **Scale without drama** — load math first, then caching, pooling, queues and partitioning where they actually pay off
+- **Fail-safe by default** — idempotency, retries with backoff, graceful degradation, and observability from day one
+- **Performance as a habit** — measure latency and throughput before optimising; optimise the bottleneck, not the guess
+- **Distributed systems, kept simple** — consistency where it matters, eventual where it doesn't, and no premature microservices
+
+---
+
 ## Tech I tinker with
 
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)
