@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sai Kumar Ganji
+# Sai Kumar G
 
 ### Lead Software Engineer @ Goldcast (now Cvent)
 
