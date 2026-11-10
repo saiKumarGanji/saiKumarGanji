@@ -35,10 +35,6 @@ I like the unglamorous work: dependency analysis, observability, developer tooli
 
 ---
 
-## Pinned work
-
-- **[stolgo](https://github.com/saiKumarGanji/stolgo)** — ★ 1 — Price Action Trading APIs: candlestick patterns, trends, support / resistance, breakouts
-- **[chat](https://github.com/saiKumarGanji/chat)** — instant messaging platform; backend in Go, Swift iOS / Java Android / JS web clients, scriptable CLI
 
 ---
 
